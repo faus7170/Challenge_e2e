@@ -8,7 +8,7 @@ Proyecto de evaluación de automatización de servicios.
 - Plugin Gerking
 
 ## Ejecución
-Para ejecutar la prueba, abrir la terminal y en el directorio base del proyecto correr el siguiente comando.
+Para ejecutar la prueba, descargue el proyecto, abrir la terminal y en el directorio base del proyecto correr el siguiente comando.
 ``` 
   mvn clean verify -Denvironment=uat "-Dcucumber.filter.tag=@Compra"
 ``` 
