@@ -14,5 +14,8 @@ Para ejecutar la prueba, abrir la terminal y en el directorio base del proyecto 
 ``` 
 
 ## Ver los reportes
-La ejecución de la prueba, producirá un reporte de Serenity Framework en el directorio `target/site/serenity/index.html`.
+Una vez que el comando se ejecuta al finalizar se creará un reporte de Serenity Framework en el directorio `target/site/serenity/index.html`.
+
+Puede revisar un reporte de de Serenity ya ejecutado dentro del archivo `target .zip` descomprimalo
+y abra el archivo `target/site/serenity/index.html`.
 
